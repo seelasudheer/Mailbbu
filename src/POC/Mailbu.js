@@ -8,7 +8,7 @@ export class Mailbu extends Component {
     render() {
 
         return (
-            <div>
+            <div className="container-fluid"  >
                 <Navbars/>
                 <Content/>
             </div>
