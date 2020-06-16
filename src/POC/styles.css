@@ -23,24 +23,45 @@
   .text:hover{
       color:#2e7ac2 ;
   }
-.makeFont{
-        font-family: "Times New Roman", Times, serif;
-        font-size: larger;
-}
+
 .backGround{
-    /* width: 19rem; */
-    border: none;
-    border-radius:1.5;
+    width: auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+.body1{
+   padding: 5px;
+}
+.makeFont{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 22px;
+}
 .backGround1{
-    width: auto;
-    font-family: Arial;
-    font-style: normal;
+    /* width: auto; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    margin: 0px;
+    font-weight: bolder;
+}
+.backGround2{
+    /* width: auto; */
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    margin: 0px;
+}
+.horizon{
+    width: 100px;
+    width: 100px;
+    margin: 0px;
+    border-width: 3px;
+border-color:#2e7ac2;
 }
 .cardView{
-    width:auto;
     display: block;
-    margin-bottom: 10px;
-    margin-left: 17px;
+    /* margin-left: 17px; */
+}
+.footer1{
+    font-size: 15px;
+    opacity:0.6;
+    font-family: 'Darker Grotesque', sans-serif;
 }

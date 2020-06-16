@@ -5,7 +5,7 @@ import './POC/styles.css'
 
 function App() {
   return (
-    <div style={{backgroundColor:"#ededed"}}>
+    <div>
     <div className="container">
        <Mailbu/>
     </div>
